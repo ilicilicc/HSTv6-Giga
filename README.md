@@ -2,6 +2,8 @@
 
 This repository contains the official PyTorch implementation for the Harmonic Spine Transformer (HST) v6 - Giga, a state-of-the-art language model architecture designed for generating long-form, structured content.
 
+Licencing at https://aethyr-global.com
+
 ## Key Features
 
 *   **Structurally-Aware Context Injection**: A groundbreaking feature that allows you to inject large blocks of text (e.g., chapters, technical documents) at specific, influential positions within the model's hierarchical spine. This enables unprecedented control over the generated output, making it ideal for tasks like writing books, generating code, or compiling reports.
